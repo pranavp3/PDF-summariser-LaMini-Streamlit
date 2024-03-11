@@ -1,0 +1,11 @@
+streamlit
+langchain
+transformers
+torch
+SentencePiece
+sentence_transformers
+accelerate
+chromadb
+pypdf
+tiktoken
+
